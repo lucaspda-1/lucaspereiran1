@@ -1,2 +1,3 @@
-Servidor rodando na porta 3000
-http://localhost:3000
+Inicia o servidor: node app.js
+Acesse no navegador: http://localhost:3000
+
